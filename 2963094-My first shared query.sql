@@ -1,1 +1,2 @@
-select * from
+select * from world.public.cit
+y
